@@ -1,0 +1,17 @@
+D:\Cấu trúc dữ liệu và giải thuật\quanlikhachsan\quanlikhachsan\bin\Debug\quanlikhachsan.exe.config
+D:\Cấu trúc dữ liệu và giải thuật\quanlikhachsan\quanlikhachsan\bin\Debug\quanlikhachsan.exe
+D:\Cấu trúc dữ liệu và giải thuật\quanlikhachsan\quanlikhachsan\bin\Debug\quanlikhachsan.pdb
+D:\Cấu trúc dữ liệu và giải thuật\quanlikhachsan\quanlikhachsan\obj\Debug\quanlikhachsan.csproj.AssemblyReference.cache
+D:\Cấu trúc dữ liệu và giải thuật\quanlikhachsan\quanlikhachsan\obj\Debug\quanlikhachsan.Properties.Resources.resources
+D:\Cấu trúc dữ liệu và giải thuật\quanlikhachsan\quanlikhachsan\obj\Debug\quanlikhachsan.csproj.GenerateResource.cache
+D:\Cấu trúc dữ liệu và giải thuật\quanlikhachsan\quanlikhachsan\obj\Debug\quanlikhachsan.csproj.CoreCompileInputs.cache
+D:\Cấu trúc dữ liệu và giải thuật\quanlikhachsan\quanlikhachsan\obj\Debug\quanlikhachsan.exe
+D:\Cấu trúc dữ liệu và giải thuật\quanlikhachsan\quanlikhachsan\obj\Debug\quanlikhachsan.pdb
+D:\Cấu trúc dữ liệu và giải thuật\quanlikhachsan\quanlikhachsan\bin\Debug\Guna.UI2.dll
+D:\Cấu trúc dữ liệu và giải thuật\quanlikhachsan\quanlikhachsan\obj\Debug\quanlikhachsan.csproj.CopyComplete
+D:\Cấu trúc dữ liệu và giải thuật\quanlikhachsan\quanlikhachsan\obj\Debug\quanlikhachsan.Dashbroad.resources
+D:\Cấu trúc dữ liệu và giải thuật\quanlikhachsan\quanlikhachsan\obj\Debug\quanlikhachsan.All_User_Control.txt.resources
+D:\Cấu trúc dữ liệu và giải thuật\quanlikhachsan\quanlikhachsan\obj\Debug\quanlikhachsan.login.resources
+D:\Cấu trúc dữ liệu và giải thuật\quanlikhachsan\quanlikhachsan\obj\Debug\quanlikhachsan.All_User_Control.UCAddRoom.resources
+D:\Cấu trúc dữ liệu và giải thuật\quanlikhachsan\quanlikhachsan\obj\Debug\quanlikhachsan.All_User_Control.UCCheckout.resources
+D:\Cấu trúc dữ liệu và giải thuật\quanlikhachsan\quanlikhachsan\obj\Debug\quanlikhachsan.All_User_Control.UCCustomerDetail.resources
